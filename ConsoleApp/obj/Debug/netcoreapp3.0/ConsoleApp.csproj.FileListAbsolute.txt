@@ -1,0 +1,11 @@
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Suresh\My Learning\DotNet\DotNetCore\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
